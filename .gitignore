@@ -1,7 +1,0 @@
-README.md
-
-# Игнорировать файл side.txt в директории build
-build/side.txt
-
-# Игнорировать все файлы с расширением .doc
-text.doc
